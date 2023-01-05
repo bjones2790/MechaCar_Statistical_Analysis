@@ -1,5 +1,5 @@
 # MechaCar Statistical Analysis
-<img width="953" alt="Deliverable 1" src="https://user-images.githubusercontent.com/112994018/210684305-2834065e-8820-4ee9-9974-f5774f0fcc99.png">
+<img width="953" alt="Deliverable 1" src="https://user-images.githubusercontent.com/112994018/210687617-b0bfb248-765b-449b-a6a9-ab0806bf7730.png">
 
 
 ## Linear Regression to Predict MPG
