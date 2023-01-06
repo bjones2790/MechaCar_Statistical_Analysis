@@ -20,7 +20,7 @@ This analysis generated summary statistics on suspension coils across the variou
 ![PSI test All](https://user-images.githubusercontent.com/112994018/210688158-901e7e89-6f32-4078-9634-11316bcee184.png)
 ![PSI Test Across lots](https://user-images.githubusercontent.com/112994018/210688166-09315450-3258-45a0-8ffa-42c34c9f85db.png)
 
-This analysis performed a t-test to determine if all manufacturing lots and each individual lots are statistically different from the population mean of 1,500 lbs per square inch. Overall, the p-value across all lots was .06 meaning we do not have enough evidence to reject the null hypothesis. When looking at each individual lot, Lots 1, 2, and 3 hada p-value of 1, .06, and .04 respectively. Of the three lots, onl Lot 3 had a p-value that could reject the null hypothesis, although more analysis should probably occur before making that determination. 
+This analysis performed a t-test to determine if all manufacturing lots and each individual lots are statistically different from the population mean of 1,500 lbs per square inch. Overall, the p-value across all lots was .06 meaning we do not have enough evidence to reject the null hypothesis. When looking at each individual lot, Lots 1, 2, and 3 hada p-value of 1, .06, and .04 respectively. Of the three lots, only Lot 3 had a p-value that could reject the null hypothesis, although more analysis should probably occur before making that determination. 
 
 ## Study Design: MechaCar vs Competition
 
