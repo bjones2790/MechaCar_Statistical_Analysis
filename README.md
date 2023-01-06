@@ -23,3 +23,7 @@ This analysis generated summary statistics on suspension coils across the variou
 This analysis performed a t-test to determine if all manufacturing lots and each individual lots are statistically different from the population mean of 1,500 lbs per square inch. Overall, the p-value across all lots was .06 meaning we do not have enough evidence to reject the null hypothesis. When looking at each individual lot, Lots 1, 2, and 3 hada p-value of 1, .06, and .04 respectively. Of the three lots, onl Lot 3 had a p-value that could reject the null hypothesis, although more analysis should probably occur before making that determination. 
 
 ## Study Design: MechaCar vs Competition
+
+An additional statistical study can look to compare if maintenence costs differ depending on vehicle make and model. Using this analysis, one could perform an Linear regression modesl to test differences across each group. The null hypothesis is "Domestic vehicle types have lower maintenece costs compared to foreign models" while the alternative hypothesis is "Domestic vehicle types do not have lower maintenence costs than foreign models". Data needed to run this analysis includes average maintence costs for cars with mileage under 150k miles, meaning additonal stats on mileage, vehicle make and model, and maintenece costs are needed to test the hypotheses. 
+
+
